@@ -20,7 +20,7 @@ O projeto é um CRUD de clientes criado utilizando o framework laravel e banco d
 
 ## Instalação
 
-Realize o clone do projeto (https://github.com/HandersonSilva/Teste-API-DialHost.git).
+Realize o clone do projeto (https://github.com/thavyla/CRUD-PHP.git).
 
 Crie um banco de dados no mysql e utilize o Arquivo .env.example para configura-lo no projeto;
 
